@@ -1,6 +1,6 @@
 ---
-title: Indivisible City
-timezone: UTC
+title: Indivisible Omaha
+timezone: America/Chicago
 collections:
   posts:
     title: Posts
@@ -59,13 +59,13 @@ defaults:
     mailchimp-form-embed: 
 subtitle: We are thousands of local citizens resisting the Trump agenda through civic
   action.
-email: 
+email: info@indivisibleomaha.org
 baseurl: 
 url: 
-twitter_username: 
-facebook_username: 
+twitter_username: "@indivisibleomah"
+facebook_username: Indivisible-Omaha-177946559356599
 background-image: "/uploads/31773994174_c2e5706218_k.jpg"
-member-count: '100'
+member-count: 100
 footer-title: Spread the word. Help build a movement.
 markdown: kramdown
 gems:
