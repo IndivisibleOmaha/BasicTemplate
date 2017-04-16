@@ -76,4 +76,9 @@ paginate_path: "/blog/page:num/"
 exclude:
 - Gemfile
 - Gemfile.lock
-google_analytics: 
+google_analytics: |-
+  <script src="//static.getclicky.com/js" type="text/javascript"></script>
+  <script type="text/javascript">try{ clicky.init(101025338); }catch(e){}</script>
+  <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101025338ns.gif" /></p></noscript>
+
+  <meta name="google-site-verification" content="qUSh8wdfAIs1VQalnAk9IIlox_5eGTQ5lsmNIW_sSHE" />
